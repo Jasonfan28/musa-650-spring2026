@@ -1,7 +1,7 @@
 ## Week 1: Course Introduction
 
 ### Course Overview
-Slides: [TODO]
+[Overview of Remote Sensing for Urban Planning](https://docs.google.com/presentation/d/1a217p37-XqVxMqMpUnnwQkceYECMiKB6CKxIY_iFih0/edit?usp=sharing)
 
 #### Syllabus Review
 See [README.md](../../README.md) for syllabus.
