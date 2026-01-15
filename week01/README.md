@@ -17,5 +17,6 @@ Slides: https://docs.google.com/presentation/d/e/2PACX-1vSr7OLODiG1yEjrp-G_J2yRw
 
 ### Additional Resources
 
-Fundamentals of Remote Sensing, NASA ARSET. https://appliedsciences.nasa.gov/sites/default/files/2022-11/Fundamentals_of_RS_Edited_SC.pdf 
+Fundamentals of Remote Sensing, NASA ARSET. https://appliedsciences.nasa.gov/sites/default/files/2022-11/Fundamentals_of_RS_Edited_SC.pdf
+
 Satellite Image Deep Learning newsletter, by Robin Mark Cole. https://www.satellite-image-deep-learning.com/
